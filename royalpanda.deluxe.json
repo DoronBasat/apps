@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Royal Panda Deluxe",
-    "imagePath": "https://raw.githubusercontent.com/DoronBasat/apps/master/deluxe-slot.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/DoronBasat/apps/master/Royal%20Panda.jpg",
+    "linkPath": "https://tracking.royalpanda.com/redirect.aspx?pid=14088&bid=2008&source=a_2199",
+    "linkAction": "#web",
     "afid": "BELt8chwiHzcUgbxNfAtui"
   }
 }
